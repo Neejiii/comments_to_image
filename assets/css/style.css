@@ -1,0 +1,125 @@
+*{
+    font-family: 'Ubuntu Mono', monospace;
+}
+html,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    color: #2d2b2b;
+}
+body{
+    background: #ffefdb;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+header {
+    background: bisque;
+    height: 60px;
+    margin-bottom: 100px;
+}
+image{
+    width: 400px;
+    height: 400px;
+    margin-bottom: 80px;
+}
+.text-fieldd{
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+}
+.image_block {
+    border-radius: 40px;
+    margin: 0 auto;
+    display: block;
+    width: 800px;
+    height: 1200px;
+    background: #fcdebc;
+}
+img{
+    margin: 0 auto;
+    display: block;
+    padding-top: 60px;
+}
+a.button7 {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 3px;
+    background: rgb(79, 73, 50);
+    box-shadow: 0 -3px rgb(45, 43, 43) inset;
+    transition: 0.2s;
+
+}
+a.button7:hover { background: rgb(65, 60, 42); }
+a.button7:active {
+    background: rgb(7, 7, 7);
+    box-shadow: 0 3px rgb(168, 158, 147) inset;
+}
+
+.text1{
+    width: 400px;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.text2{
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.name{
+    background: #fcdebc;
+}
+
+ul {
+    padding: 0 10px!important;
+}
+
+ul .namee {
+    list-style: none;
+    padding: 15px;
+    margin-bottom: 10px;
+    background: #fcfcfc;
+}
+
+ul .namee:hover {
+    background: #e5e5e5;
+}
+
+ul .namee button {
+    border: 0;
+    padding: 5px 15px;
+    color: white;
+    font-size: 13px;
+    background: #db5757;
+    position: relative;
+    left: 130px;
+    border-radius: 5px;
+}
+
+ul .namee button:hover {
+    background: #a04141;
+}
+
+.visual{
+    background: #f8e8d5;
+    border: 2px solid #5e5c55;
+    margin: 10px;
+}
+
+.font{
+    color: #188f3d;
+}
+
+
+
